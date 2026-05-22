@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruticore</h1>
-**`A BTech IT student,learning and building every day
-`**
+**`A BTech IT student,learning and building every day`**
 
 -  🦋I’m currently working on **strengthening programming fundamentals
 -  beginner python project
